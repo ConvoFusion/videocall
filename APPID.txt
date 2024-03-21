@@ -1,0 +1,3 @@
+APPID:5dbe736b4bc340c69d94fb21fe5e2067
+
+make static id's for rooms and users.
